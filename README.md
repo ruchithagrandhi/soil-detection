@@ -1,1 +1,2 @@
 # soil-detection
+The Automatic Soil Moisture Detection and Watering System, developed with friends, uses an Arduino to monitor soil moisture levels with a soil moisture sensor (e.g., FC-28) and optionally a temperature sensor (e.g., DHT11). When the soil dries out (below a set threshold), a water pump is automatically activated to irrigate it, ensuring optimal plant health. This project showcases IoT and automation skills, ideal for smart gardening.
